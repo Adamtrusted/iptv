@@ -1,6 +1,6 @@
 # IPTV [![update](https://github.com/iptv-org/iptv/actions/workflows/update.yml/badge.svg)](https://github.com/iptv-org/iptv/actions/workflows/update.yml)
 
-Collection of publicly available IPTV (Internet Protocol television) channels from all over the world.
+Hey everyone! After trying several IPTV providers and dealing with buffering issues during football games, a friend recommended MyPrimeIPTV. Now, no more interruptions, even during peak times like NFL weekends. They offer 27K+ channels and 110K+ VODs. Check them out at myprimeiptv.com!
 
 ## Table of contents
 
